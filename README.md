@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krvamsi96" target="_blank">
+  <a href="https://linkedin.com/in/ratna-vamsi-9507721a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:krvamsi96@gmail.com">
@@ -119,7 +119,7 @@ Here are some of my top open-source projects focusing on AI, Machine Learning, a
 
 ### 📫 Connect With Me
 *   📧 Email: [krvamsi96@gmail.com](mailto:krvamsi96@gmail.com)
-*   💼 LinkedIn: [Ratna Vamsi](https://linkedin.com/in/krvamsi96)
+*   💼 LinkedIn: [Ratna Vamsi](https://linkedin.com/in/ratna-vamsi-9507721a4)
 *   🌐 GitHub: [krvamsi96](https://github.com/krvamsi96)
 
 *Always open to research initiatives, collaboration, and exciting AI opportunities! Let's build something extraordinary.* 🚀
